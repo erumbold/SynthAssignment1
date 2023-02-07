@@ -11,5 +11,3 @@ To create polyphony with these functions, I defined `poly_oscillator()` which ca
 
 ## Q7
 Code for Q7 can be found in the `Assignment1` Max patch. One side plays the given frequency value, the other takes in a MIDI number, converts it to its corresponding frequency, and plays the sinewave.
-
-## Q8
